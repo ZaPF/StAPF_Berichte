@@ -1,4 +1,4 @@
 StAPF_Berichte
 ==============
 
-die in Anfangsplenen gegeben Berichte des StAPFs verganner und zukünftiger ZaPFen
+Die in Anfangsplenen gegeben Berichte des StAPFs vergangener und zukünftiger ZaPFen
